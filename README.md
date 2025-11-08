@@ -1,9 +1,10 @@
-Ocean Chemistry Change Tracking using Machine Learning
+**Ocean Chemistry Change Tracking using Machine Learning**
+
 This project provides a complete, beginner-friendly workflow for detecting, modeling, and forecasting ocean chemistry trends using synthetic sensor data and machine learning.
 
 The idea is to simulate something close to real ocean monitoring systems, where scientists analyze long-term changes in pH, CO₂ concentration, salinity, dissolved oxygen, and other environmental factors to understand how ocean acidification is progressing.
 
-Overview
+**Overview**
 Ocean chemistry shifts constantly because of rising atmospheric CO₂, warming temperatures, pollution, deep-sea mixing, and biological processes.
 To monitor these changes, scientists deploy sensors on:
 
